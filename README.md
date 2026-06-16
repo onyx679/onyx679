@@ -13,7 +13,7 @@ Public portfolio project for automotive value engineering productivity workflows
 - Pages: https://onyx679.github.io/automotive-ve-ai-skills-kit/
 - Repository: https://github.com/onyx679/automotive-ve-ai-skills-kit
 - Reviewer case study: https://github.com/onyx679/automotive-ve-ai-skills-kit/blob/main/docs/case-study.md
-- Release: https://github.com/onyx679/automotive-ve-ai-skills-kit/releases/tag/v0.4.3
+- Release: https://github.com/onyx679/automotive-ve-ai-skills-kit/releases/tag/v0.4.4
 
 What it demonstrates:
 
@@ -27,7 +27,7 @@ Supplementary workflow demo showing that the same process can transfer to ecomme
 
 - Pages: https://onyx679.github.io/ecommerce-ops-ai-workflow-kit/
 - Repository: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit
-- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.3
+- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.4
 
 What it demonstrates:
 
