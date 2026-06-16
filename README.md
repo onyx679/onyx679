@@ -1,4 +1,4 @@
-﻿# Hi, I am onyx679
+# Hi, I am onyx679
 
 I build small AI workflow tools that turn repeated business work into reusable Skills, scripts, reports, and human-review checklists.
 
@@ -27,7 +27,7 @@ Supplementary workflow demo showing that the same process can transfer to ecomme
 
 - Pages: https://onyx679.github.io/ecommerce-ops-ai-workflow-kit/
 - Repository: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit
-- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.1
+- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.2
 
 What it demonstrates:
 
@@ -45,4 +45,3 @@ What it demonstrates:
 ## Boundaries
 
 The featured portfolio projects use simulated or non-confidential data. They do not use internal company material, real supplier quotations, real vehicle BOMs, proprietary vehicle-program data, real customer records, or private merchant exports.
-
