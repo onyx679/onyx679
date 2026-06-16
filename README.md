@@ -1,4 +1,4 @@
-﻿# Hi, I am onyx679
+# Hi, I am onyx679
 
 I build small AI workflow tools that turn repeated business work into reusable Skills, scripts, reports, and human-review checklists.
 
