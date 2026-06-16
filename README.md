@@ -1,4 +1,4 @@
-# Hi, I am onyx679
+﻿# Hi, I am onyx679
 
 I build small AI workflow tools that turn repeated business work into reusable Skills, scripts, reports, and human-review checklists.
 
@@ -13,7 +13,7 @@ Public portfolio project for automotive value engineering productivity workflows
 - Pages: https://onyx679.github.io/automotive-ve-ai-skills-kit/
 - Repository: https://github.com/onyx679/automotive-ve-ai-skills-kit
 - Reviewer case study: https://github.com/onyx679/automotive-ve-ai-skills-kit/blob/main/docs/case-study.md
-- Release: https://github.com/onyx679/automotive-ve-ai-skills-kit/releases/tag/v0.4.0
+- Release: https://github.com/onyx679/automotive-ve-ai-skills-kit/releases/tag/v0.4.1
 
 What it demonstrates:
 
@@ -45,3 +45,4 @@ What it demonstrates:
 ## Boundaries
 
 The featured portfolio projects use simulated or non-confidential data. They do not use internal company material, real supplier quotations, real vehicle BOMs, proprietary vehicle-program data, real customer records, or private merchant exports.
+
