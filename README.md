@@ -6,6 +6,21 @@ I build small AI workflow tools that turn repeated business work into reusable S
 
 ## Featured Work
 
+### Ecommerce Ops AI Workflow Kit
+
+Workflow demo based on ecommerce operations. It shows how order, inventory, and support-ticket data can be turned into risk reports, action queues, and review boundaries.
+
+- Pages: https://onyx679.github.io/ecommerce-ops-ai-workflow-kit/
+- Repository: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit
+- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.4
+
+What it demonstrates:
+
+- SKU risk scoring from simulated order, inventory, and support-ticket inputs.
+- Markdown weekly risk reports and action queues.
+- Clear separation between AI-generated drafts and human-reviewed business decisions.
+- Transferable workflow thinking from ecommerce operations to business-process AI enablement.
+
 ### Automotive VE AI Skills Kit
 
 Public portfolio project for automotive value engineering productivity workflows.
@@ -21,19 +36,14 @@ What it demonstrates:
 - Python CLI tools for CSV inputs, Markdown outputs, scoring, readiness checks, and claim evidence matrices.
 - GitHub Actions tests, bilingual README, GitHub Pages, release discipline, and explicit human-review boundaries.
 
-### Ecommerce Ops AI Workflow Kit
+## Open Source Contributions
 
-Supplementary workflow demo showing that the same process can transfer to ecommerce operations.
+Small, merged documentation contributions:
 
-- Pages: https://onyx679.github.io/ecommerce-ops-ai-workflow-kit/
-- Repository: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit
-- Release: https://github.com/onyx679/ecommerce-ops-ai-workflow-kit/releases/tag/v0.1.4
+- genai-io/san: documented `make ci` as the local PR gate in the contributing guide. PR: https://github.com/genai-io/san/pull/238
+- harvard-cns/orla: added the `orlactl` source build command to the quickstart. PR: https://github.com/harvard-cns/orla/pull/54
 
-What it demonstrates:
-
-- SKU risk scoring from simulated order, inventory, and support-ticket inputs.
-- Markdown weekly risk reports and action queues.
-- Clear separation between AI-generated drafts and human-reviewed business decisions.
+Open PRs are not listed here as evidence until they are merged.
 
 ## Working Style
 
